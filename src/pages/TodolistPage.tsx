@@ -35,7 +35,7 @@ const tasks: TaskCardProps[] = [
     <div className="container-fluid min-vh-100">
       <div className="row h-100">
         <div className="col-2 p-0">
-          <Sidebar userName="chanadda" type="admin" />
+          <Sidebar userName="kittipat" type="admin" />
         </div>
 
         <div className="col-10 p-0 d-flex flex-column min-vh-100">
